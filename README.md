@@ -21,6 +21,20 @@ The code also requires the source code: 'matrixOperators.r' (provided in this re
 - 'ClimateSahul_Npp.csv' (hindcasted net primary production values for northern Sahul produced by the LOVECLIM global circulation model)
 
 
+The second R code file ('human arrival population model_github.R') is a variant of the above, only this time applied to the island-hopping scenario presented in the Bird et al. analysis.
+
+This code requires the following R libraries:
+
+- boot
+- tcltk
+- plotly
+- sp
+- rgdal
+- raster
+
+and the same data files as above ('world2013lifetable.csv' & 'ClimateSahul_Npp.csv').
+
+
 The repository also includes a global sensitivity analysis ('ancienthumanfound_gsa_sim_func_v2.R) that uses the following R libraries:
 
 - iterators
