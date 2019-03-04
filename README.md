@@ -3,7 +3,7 @@ R code for reproducing age-structured models of ancient humans entering Sahul.
 
 The repositories code and associated data are to reproduce the models presented in the following companion papers:
 
-- BRADSHAW, CJA, S ULM, AN WILLIAMS, MI BIRD, RG ROBERTS, Z JACOBS, F LAVIANO, LS WEYRICH, T FRIEDRICH, K NORMAN, F SALTRÉ. In review. Minimum founding populations of the first people to colonise Australia. Nature Ecology and Evolution
+- BRADSHAW, CJA, S ULM, AN WILLIAMS, MI BIRD, RG ROBERTS, Z JACOBS, F LAVIANO, LS WEYRICH, T FRIEDRICH, K NORMAN, F SALTRÉ. In review. Minimum founding populations of the first people to colonise Sahul. Nature Ecology and Evolution
 
 - BIRD, MI, SA CONDIE, S O’CONNOR, D O’GRADY, C REEPMEYER, S ULM, M ZEGA, F SALTRÉ, CJA BRADSHAW. Accepted. Early human settlement of Sahul was not an accident. Scientific Reports
 
