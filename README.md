@@ -35,7 +35,7 @@ This code requires the following R libraries:
 and the same data files as above ('world2013lifetable.csv' & 'ClimateSahul_Npp.csv').
 
 
-The repository also includes a global sensitivity analysis ('ancienthumanfound_gsa_sim_func_v2.R) derived from the paper: Prowse, TAA, CJA Bradshaw, S Delean, P Cassey, RC Lacy, K Wells, M Aiello-Lammens, HR Akçakaya, BW Brook. 2016. An efficient protocol for the global sensitivity analysis of stochastic ecological models. Ecosphere 7: e01238. doi:10.1002/ecs2.1238.This requires the following R libraries:
+The repository also includes a global sensitivity analysis ('ancienthumanfound_gsa_sim_func_v2.R) derived from the paper: PROWSE, TAA, CJA BRADSHAW, et al. 2016. An efficient protocol for the global sensitivity analysis of stochastic ecological models. Ecosphere 7: e01238. doi:10.1002/ecs2.1238. This requires the following R libraries:
 
 - iterators
 - snow
