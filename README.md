@@ -3,9 +3,9 @@ R code for reproducing age-structured models of ancient humans entering Sahul.
 
 The repository's code and associated data are to reproduce the models presented in the following companion papers:
 
-- BRADSHAW, CJA, S ULM, AN WILLIAMS, MI BIRD, RG ROBERTS, Z JACOBS, F LAVIANO, LS WEYRICH, T FRIEDRICH, K NORMAN, F SALTRÉ. In review. Minimum founding populations of the first people to colonise Sahul. Nature Ecology and Evolution
+- Bradshaw, CJA, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. Minimum founding populations for the first peopling of Sahul. Nature Ecology and Evolution doi:10.1038/s41559-019-0902-6
 
-- BIRD, MI, SA CONDIE, S O’CONNOR, D O’GRADY, C REEPMEYER, S ULM, M ZEGA, F SALTRÉ, CJA BRADSHAW. Accepted. Early human settlement of Sahul was not an accident. Scientific Reports
+- Bird, MI, SA Condie, S O’Connor, D O’Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, CJA Bradshaw. 2019. Early human settlement of Sahul was not an accident. Scientific Reports doi:10.1038/s41598-019-42946-9
 
 The first R code file ('humanpopmodelgithub.R) is a stochastic projection of the human population entering Sahul required to estimate minimum viable population size. It requires the following R libraries:
 
