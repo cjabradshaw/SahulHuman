@@ -35,7 +35,7 @@ This code requires the following R libraries:
 and the same data files as above ('world2013lifetable.csv' & 'ClimateSahul_Npp.csv').
 
 
-The repository also includes a global sensitivity analysis ('ancienthumanfound_gsa_sim_func_v2.R) derived from the paper: PROWSE, TAA, CJA BRADSHAW, et al. 2016. An efficient protocol for the global sensitivity analysis of stochastic ecological models. Ecosphere 7: e01238. doi:10.1002/ecs2.1238. This requires the following R libraries:
+The repository also includes a global sensitivity analysis ('ancienthumanfound_gsa_sim_func_v2.R) derived from the paper: Prowse, TAA, CJA Bradshaw, et al. 2016. An efficient protocol for the global sensitivity analysis of stochastic ecological models. Ecosphere 7: e01238 http://dx.doi.org/10.1002/ecs2.1238. This requires the following R libraries:
 
 - iterators
 - snow
@@ -47,5 +47,5 @@ The repository also includes a global sensitivity analysis ('ancienthumanfound_g
 The sensitivity analysis also relies on the source code: 'matrixOperators.r' (provided in this repository), as well as the following data files:
 
 - 'ClimateSahul_Npp.csv' (hindcasted net primary production values for northern Sahul produced by the LOVECLIM global circulation model)
-- 'world2013lifetable.csv' (modern human demographic data from Bradshaw & Brook. 2014. Human population reduction is not a quick fix for environmental problems. Proceedings of the National Academy of Sciences of the USA 111: 16610–16615. doi:10.1073/pnas.1410465111)
+- 'world2013lifetable.csv' (modern human demographic data from Bradshaw & Brook. 2014. Human population reduction is not a quick fix for environmental problems. Proceedings of the National Academy of Sciences of the USA 111: 16610–16615 http://dx.doi.org/10.1073/pnas.1410465111)
 
