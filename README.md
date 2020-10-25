@@ -3,9 +3,9 @@ R code for reproducing age-structured models of ancient humans entering Sahul.
 
 The repository's code and associated data are to reproduce the models presented in the following companion papers:
 
-- Bradshaw, CJA, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. Minimum founding populations for the first peopling of Sahul. Nature Ecology and Evolution 3: 1057-1063 http://doi.org/10.1038/s41559-019-0902-6
+- Bradshaw, CJA, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. Minimum founding populations for the first peopling of Sahul. <i>Nature Ecology and Evolution</i> 3: 1057-1063 http://doi.org/10.1038/s41559-019-0902-6
 
-- Bird, MI, SA Condie, S O’Connor, D O’Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, CJA Bradshaw. 2019. Early human settlement of Sahul was not an accident. Scientific Reports 9: 8220 http://doi.org/10.1038/s41598-019-42946-9
+- Bird, MI, SA Condie, S O’Connor, D O’Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, CJA Bradshaw. 2019. Early human settlement of Sahul was not an accident. <i>Scientific Reports</i> 9: 8220 http://doi.org/10.1038/s41598-019-42946-9
 
 The first R code file ('humanpopmodelgithub.R) is a stochastic projection of the human population entering Sahul required to estimate minimum viable population size. It requires the following R libraries:
 
@@ -17,7 +17,7 @@ The first R code file ('humanpopmodelgithub.R) is a stochastic projection of the
 
 The code also requires the source code: 'matrixOperators.r' (provided in this repository), as well as the following data files:
 
-- 'world2013lifetable.csv' (modern human demographic data from Bradshaw & Brook. 2014. Human population reduction is not a quick fix for environmental problems. Proceedings of the National Academy of Sciences of the USA 111: 16610–16615. doi:10.1073/pnas.1410465111)
+- 'world2013lifetable.csv' (modern human demographic data from Bradshaw & Brook. 2014. Human population reduction is not a quick fix for environmental problems. <i>Proceedings of the National Academy of Sciences of the USA</i> 111: 16610–16615. doi:10.1073/pnas.1410465111)
 - 'ClimateSahul_Npp.csv' (hindcasted net primary production values for northern Sahul produced by the LOVECLIM global circulation model)
 
 
@@ -35,7 +35,7 @@ This code requires the following R libraries:
 and the same data files as above ('world2013lifetable.csv' & 'ClimateSahul_Npp.csv').
 
 
-The repository also includes a global sensitivity analysis ('ancienthumanfound_gsa_sim_func_v2.R) derived from the paper: Prowse, TAA, CJA Bradshaw, et al. 2016. An efficient protocol for the global sensitivity analysis of stochastic ecological models. Ecosphere 7: e01238 http://dx.doi.org/10.1002/ecs2.1238. This requires the following R libraries:
+The repository also includes a global sensitivity analysis ('ancienthumanfound_gsa_sim_func_v2.R) derived from the paper: Prowse, TAA, CJA Bradshaw, et al. 2016. An efficient protocol for the global sensitivity analysis of stochastic ecological models. <i>Ecosphere</i> 7: e01238 http://dx.doi.org/10.1002/ecs2.1238. This requires the following R libraries:
 
 - iterators
 - snow
