@@ -1,6 +1,11 @@
 # Human Peopling of Sahul
 R code for reproducing age-structured models of ancient humans entering Sahul.
 
+Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1sO0O3wAAAAJ&view_op=list_works">Corey J. A. Bradshaw</a> <br>
+<a href="http://globalecologyflinders.com" target="_blank">Global Ecology</a>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
+September 2021 <br>
+<a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
+
 The repository's code and associated data are to reproduce the models presented in the following companion papers:
 
 - Bradshaw, CJA, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. <a href="http://doi.org/10.1038/s41559-019-0902-6">Minimum founding populations for the first peopling of Sahul</a>. <i>Nature Ecology and Evolution</i> 3: 1057-1063. doi:10.1038/s41559-019-0902-6
@@ -35,7 +40,7 @@ This code requires the following R libraries:
 and the same data files as above ('world2013lifetable.csv' & 'ClimateSahul_Npp.csv').
 
 
-The repository also includes a global sensitivity analysis ('ancienthumanfound_gsa_sim_func_v2.R) derived from the paper: Prowse, TAA, CJA Bradshaw, et al. 2016. An efficient protocol for the global sensitivity analysis of stochastic ecological models. <i>Ecosphere</i> 7: e01238 http://dx.doi.org/10.1002/ecs2.1238. This requires the following R libraries:
+The repository also includes a global sensitivity analysis <code>ancienthumanfound_gsa_sim_func_v2.R</code> derived from the paper: Prowse, TAA, CJA Bradshaw, et al. 2016. <a href="http://dx.doi.org/10.1002/ecs2.1238">An efficient protocol for the global sensitivity analysis of stochastic ecological models</a>. <i>Ecosphere</i> 7: e01238. doi:10.1002/ecs2.1238. This requires the following R libraries:
 
 - <code>iterators</code>
 - <code>snow</code>
