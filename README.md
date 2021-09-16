@@ -51,6 +51,6 @@ The repository also includes a global sensitivity analysis <code>ancienthumanfou
 
 The sensitivity analysis also relies on the source code: <code>matrixOperators.r</code> (provided in this repository), as well as the following data files:
 
-- 'ClimateSahul_Npp.csv' (hindcasted net primary production values for northern Sahul produced by the LOVECLIM global circulation model)
+- 'ClimateSahul_Npp.csv' (hindcasted net primary production values for northern Sahul produced by the <a href="https://gmd.copernicus.org/articles/3/603/2010/">LOVECLIM</a> global circulation model)
 - 'world2013lifetable.csv' (modern human demographic data from Bradshaw & Brook. 2014. <a href="http://doi.org/10.1073/pnas.1410465111">Human population reduction is not a quick fix for environmental problems</a>. <i>Proceedings of the National Academy of Sciences of the USA</i> 111: 16610–16615. doi:10.1073/pnas.1410465111)
 
