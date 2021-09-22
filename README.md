@@ -1,4 +1,6 @@
 # Human Peopling of Sahul
+<img align="right" src="foundingPop.png" alt="founding N" width="200" style="margin-top: 20px">
+
 R code for reproducing age-structured models of ancient humans entering Sahul.
 
 Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1sO0O3wAAAAJ&view_op=list_works">Corey J. A. Bradshaw</a> <br>
