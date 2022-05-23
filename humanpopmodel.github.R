@@ -10,8 +10,7 @@ library(boot)
 library(tcltk)
 
 ## source
-#source("/Applications/RStudio.app/Contents/Resources/R/matrixOperators.r") 
-source("~/Documents/Papers/Other/Global human population/ms/PNAS/R1/matrixOperators.r")
+source("matrixOperators.r")
 
 # Set functions
 # beta distribution shape parameter estimator function
@@ -26,9 +25,6 @@ stoch.surv.func <- function(mu, var) {
   Sx <- rbeta(length(mu), (((1 - mu) / var - 1 / mu) * mu ^ 2), ((((1 - mu) / var - 1 / mu) * mu ^ 2)*(1 / mu - 1)))
   return(params=Sx)
 }
-
-## set working directory
-setwd("~/Documents/Papers/Palaeo/Sahul/Aus human age-structured model/data")
 
 # Siler hazard h(x) (Gurven et al. 2007)
 # average hunter-gatherer
@@ -135,7 +131,6 @@ prim.mean <- round(mean(primiparity.walker),0)
 prim.lo <- round(quantile(primiparity.walker,probs=0.025),0)
 prim.hi <- round(quantile(primiparity.walker,probs=0.975),0)
 print(c(prim.lo, prim.mean, prim.hi))
-setwd("~/Documents/Papers/Other/Global human population/data/import data/")
 dat.world13 <- read.table("world2013lifetable.csv", header=T, sep=",")
 fert.world13 <- dat.world13$m.f
 fert.trunc <- fert.world13[1:(longev+1)]
@@ -217,7 +212,6 @@ axis(1, at = seq(0, yr.end, 1000), las=1)
 
 ####################################################
 ## relative density, carrying capacity & feedbacks
-setwd("~/Documents/Papers/Palaeo/Sahul/Aus human age-structured model/data/updated K data/")
 
 ## NORTH OF SAHUL (between 0 and 14 degrees S Latitude)
 # net primary productivity (NPP; kg C/yr/m2)
