@@ -56,3 +56,5 @@ The sensitivity analysis also relies on the source code: <code>matrixOperators.r
 - 'ClimateSahul_Npp.csv' (hindcasted net primary production values for northern Sahul produced by the <a href="https://gmd.copernicus.org/articles/3/603/2010/">LOVECLIM</a> global circulation model)
 - 'world2013lifetable.csv' (modern human demographic data from Bradshaw & Brook. 2014. <a href="http://doi.org/10.1073/pnas.1410465111">Human population reduction is not a quick fix for environmental problems</a>. <i>Proceedings of the National Academy of Sciences of the USA</i> 111: 16610–16615. doi:10.1073/pnas.1410465111)
 
+All code ran on the Flinders University <em>Deepthought</em> High-Performance Computing facility: Flinders University (2021). DeepThought (HPC). doi:<a href="https://doi.org/10.25957/FLINDERS.HPC.DEEPTHOUGHT">10.25957/FLINDERS.HPC.DEEPTHOUGHT</a>
+
