@@ -1,5 +1,5 @@
 # Peopling of Sahul
-<img align="right" src="foundingPop.png" alt="founding N" width="400" style="margin-top: 20px">
+<img align="right" src="www/foundingPop.png" alt="founding N" width="400" style="margin-top: 20px">
 
 R code for reproducing age-structured models of ancient humans entering Sahul.
 
