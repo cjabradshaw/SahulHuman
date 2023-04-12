@@ -59,4 +59,4 @@ The sensitivity analysis also relies on the source code: <code>matrixOperators.r
 All code ran on the Flinders University <em>Deepthought</em> High-Performance Computing facility: Flinders University (2021). DeepThought (HPC). doi:<a href="https://doi.org/10.25957/FLINDERS.HPC.DEEPTHOUGHT">10.25957/FLINDERS.HPC.DEEPTHOUGHT</a>
 
 <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a>
-<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> <a href="https://EpicAustralia.org.au"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="CABAH logo" width="200" style="margin-top: 20px"></a>
+<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> <a href="https://EpicAustralia.org.au"><img align="bottom-left" src="www/CabahFCL.jpg" alt="CABAH logo" width="200" style="margin-top: 20px"></a>
